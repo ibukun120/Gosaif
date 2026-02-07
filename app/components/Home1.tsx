@@ -8,7 +8,7 @@ const Home1 = () => {
         Professional Security. Guaranteed
       </h1>
 
-      <div className="text-[21px]">
+      <div className="text-[20px]">
         <p className="text-center">
           {" "}
           See exactly who's coming. Track their arrival. Get instant backup
