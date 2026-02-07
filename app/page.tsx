@@ -5,6 +5,9 @@ import Staysafe from './components/Staysafe'
 import Slider from './components/Slider'
 import WhyUseGoSaif from './components/WhyCard'
 import Footer from './components/Footer'
+import FaqSection from './components/FaqSection'
+import EventsPlanner from './components/EventsPlanner'
+import Joincommunity from './components/Joincommunity'
 
 const page = () => {
   return (
@@ -14,6 +17,9 @@ const page = () => {
       <Staysafe/>
       <Slider/>
       <WhyUseGoSaif/>
+      <EventsPlanner/>
+      <FaqSection/>
+      <Joincommunity/>
       {/* Landing Page */}
     </div>
   )
